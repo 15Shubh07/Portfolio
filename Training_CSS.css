@@ -1,0 +1,24 @@
+#background{
+background-image:url("Pic/T2.jfif");
+height : 550px;
+margin-top:50px}
+#C1{
+margin:30px 0px 0px 25px;
+border:1px dashed #330066;
+box-shadow: 5px 10px 10px 10px #6600CC;
+float:left}
+#C2{
+margin:80px 25px 0px 0px;
+border:1px dashed #330066;
+box-shadow: 5px 10px 10px 10px #6600CC;
+float:right}
+#P1{
+color:#FF9933; 
+font-size:30px; 
+text-align:center;}
+#P2{
+color:#ffff66; 
+font-size:20px;}
+#P3{
+color:#FFFF00; 
+font-size:20px;}

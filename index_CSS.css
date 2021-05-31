@@ -1,0 +1,44 @@
+p{font-size:50px;
+padding-top:5px;
+color:#CC0000;
+font-family:"Cooper";
+padding-top:0px;
+margin-top:0px;}
+body{
+background-color:black;}
+#background{
+background-image:url("Pic/Portfolio_bg.jpeg");
+height:630px;
+padding:0px 0px;}
+#left{
+float:left;
+margin:15px 50px 20px 150px;}
+#im1{
+height:400px;
+width:350px}
+#right{
+float:right;
+color:yellow;
+margin:45px 60px;
+width:500px;}
+#im2{
+float:left;
+height:100px;
+width:222px;
+border-radius:20px;
+padding:5px 5px 5px 5px;
+border:1px dotted red}
+#im3{
+float:right;
+height:100px;
+width:222px;
+border-radius:20px;
+padding:5px 5px 5px 5px;
+border:1px dotted red}
+#im4{
+height:100px;
+width:490px;
+border-radius:20px;
+padding:5px 5px 5px 5px;
+border:1px dotted red}
+</style>

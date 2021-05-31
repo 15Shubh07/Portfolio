@@ -1,0 +1,14 @@
+#background{
+background-image:url("Pic/P2.jpg");
+height : 550px;
+margin:50px 100px}
+body{
+background-color:black}
+#list{
+margin:3px solid red;
+padding-top:50px;
+padding-left:90px}
+li{
+font-size:45px;
+color:#009999;
+font-family:Cookie}
